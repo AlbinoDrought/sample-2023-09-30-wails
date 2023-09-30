@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=sample-2023-09-30
+# generally you would point to the installed location
+Exec=$PWD/build/bin/sample-2023-09-30
+Icon=./build/appicon.png
